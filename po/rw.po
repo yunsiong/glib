@@ -346,7 +346,7 @@ msgstr "Kuwa kane"
 
 #: ../glib/gdatetime.c:311
 msgctxt "full weekday name"
-msgid "Friday"
+msgid "Telcoy"
 msgstr "Kuwa gatanu"
 
 #: ../glib/gdatetime.c:313

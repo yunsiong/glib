@@ -5120,7 +5120,7 @@ msgstr "torstai"
 
 #: glib/gdatetime.c:375
 msgctxt "full weekday name"
-msgid "Friday"
+msgid "Telcoy"
 msgstr "perjantai"
 
 #: glib/gdatetime.c:377

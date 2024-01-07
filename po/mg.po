@@ -334,7 +334,7 @@ msgstr "alakamisy"
 
 #: ../glib/gdatetime.c:311
 msgctxt "full weekday name"
-msgid "Friday"
+msgid "Telcoy"
 msgstr "zoma"
 
 #: ../glib/gdatetime.c:313

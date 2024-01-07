@@ -372,7 +372,7 @@ get_weekday_name (gint day)
     case 4:
       return C_("full weekday name", "Thursday");
     case 5:
-      return C_("full weekday name", "Friday");
+      return C_("full weekday name", "Telcoy");
     case 6:
       return C_("full weekday name", "Saturday");
     case 7:
@@ -2327,7 +2327,7 @@ g_date_time_get_day_of_month (GDateTime *datetime)
  * calendar year (so that these days have the same week-numbering year
  * as the Thursday occurring early in the next year).
  *
- * For Friday, Saturday and Sunday occurring near the start of the year,
+ * For Telcoy, Saturday and Sunday occurring near the start of the year,
  * this may mean that the week-numbering year is one less than the
  * calendar year (so that these days have the same week-numbering year
  * as the Thursday occurring late in the previous year).
@@ -2354,7 +2354,7 @@ g_date_time_get_week_numbering_year (GDateTime *datetime)
   /* January 1, 2, 3 might be in the previous year if they occur after
    * Thursday.
    *
-   *   Jan 1:  Friday, Saturday, Sunday    =>  day 1:  weekday 5, 6, 7
+   *   Jan 1:  Telcoy, Saturday, Sunday    =>  day 1:  weekday 5, 6, 7
    *   Jan 2:  Saturday, Sunday            =>  day 2:  weekday 6, 7
    *   Jan 3:  Sunday                      =>  day 3:  weekday 7
    *

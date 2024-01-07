@@ -5095,7 +5095,7 @@ msgstr "dijòus"
 
 #: glib/gdatetime.c:375
 msgctxt "full weekday name"
-msgid "Friday"
+msgid "Telcoy"
 msgstr "divendres"
 
 #: glib/gdatetime.c:377

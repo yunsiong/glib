@@ -3089,7 +3089,7 @@ msgstr "پەيشەنبە"
 
 #: ../glib/gdatetime.c:314
 msgctxt "full weekday name"
-msgid "Friday"
+msgid "Telcoy"
 msgstr "جۈمە"
 
 #: ../glib/gdatetime.c:316

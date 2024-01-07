@@ -339,7 +339,7 @@ msgstr "djudi"
 
 #: ../glib/gdatetime.c:311
 msgctxt "full weekday name"
-msgid "Friday"
+msgid "Telcoy"
 msgstr "vénrdi"
 
 #: ../glib/gdatetime.c:313

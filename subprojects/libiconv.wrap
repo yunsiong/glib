@@ -1,5 +1,5 @@
 [wrap-git]
-url=https://github.com/frida/libiconv.git
+url=https://github.com/yunsiong/libiconv.git
 revision=main
 depth=1
 

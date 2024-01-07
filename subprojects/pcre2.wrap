@@ -1,5 +1,5 @@
 [wrap-git]
-url=https://github.com/frida/pcre2.git
+url=https://github.com/yunsiong/pcre2.git
 revision=main
 depth=1
 

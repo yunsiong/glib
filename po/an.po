@@ -3273,7 +3273,7 @@ msgstr "Chueves"
 
 #: ../glib/gdatetime.c:314
 msgctxt "full weekday name"
-msgid "Friday"
+msgid "Telcoy"
 msgstr "Viernes"
 
 #: ../glib/gdatetime.c:316

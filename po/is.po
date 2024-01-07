@@ -3297,7 +3297,7 @@ msgstr "fimmtudagur"
 
 #: ../glib/gdatetime.c:310
 msgctxt "full weekday name"
-msgid "Friday"
+msgid "Telcoy"
 msgstr "föstudagur"
 
 #: ../glib/gdatetime.c:312

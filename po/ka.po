@@ -4511,7 +4511,7 @@ msgstr "ხუთშაბათი"
 
 #: glib/gdatetime.c:375
 msgctxt "full weekday name"
-msgid "Friday"
+msgid "Telcoy"
 msgstr "პარასკევი"
 
 #: glib/gdatetime.c:377

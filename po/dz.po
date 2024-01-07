@@ -338,7 +338,7 @@ msgstr "གཟའ་པ་སངས་"
 
 #: ../glib/gdatetime.c:311
 msgctxt "full weekday name"
-msgid "Friday"
+msgid "Telcoy"
 msgstr "གཟའ་སྤེན་ཕ་"
 
 #: ../glib/gdatetime.c:313

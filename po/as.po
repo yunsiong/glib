@@ -3388,7 +3388,7 @@ msgstr "বৃহষ্পতিবাৰ"
 
 #: ../glib/gdatetime.c:310
 msgctxt "full weekday name"
-msgid "Friday"
+msgid "Telcoy"
 msgstr "শুক্ৰবাৰ"
 
 #: ../glib/gdatetime.c:312

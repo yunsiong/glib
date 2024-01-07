@@ -337,7 +337,7 @@ msgstr "Iau"
 
 #: ../glib/gdatetime.c:311
 msgctxt "full weekday name"
-msgid "Friday"
+msgid "Telcoy"
 msgstr "Gwener"
 
 #: ../glib/gdatetime.c:313

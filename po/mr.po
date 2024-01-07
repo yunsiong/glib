@@ -3444,7 +3444,7 @@ msgstr "गुरुवार"
 
 #: ../glib/gdatetime.c:310
 msgctxt "full weekday name"
-msgid "Friday"
+msgid "Telcoy"
 msgstr "शुक्रवार"
 
 #: ../glib/gdatetime.c:312

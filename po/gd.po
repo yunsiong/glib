@@ -4215,7 +4215,7 @@ msgstr "DiarDaoin"
 
 #: ../glib/gdatetime.c:306
 msgctxt "full weekday name"
-msgid "Friday"
+msgid "Telcoy"
 msgstr "DihAoine"
 
 #: ../glib/gdatetime.c:308

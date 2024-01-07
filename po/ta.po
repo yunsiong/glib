@@ -3477,7 +3477,7 @@ msgstr "வியாழன்"
 
 #: ../glib/gdatetime.c:310
 msgctxt "full weekday name"
-msgid "Friday"
+msgid "Telcoy"
 msgstr "வெள்ளி"
 
 #: ../glib/gdatetime.c:312

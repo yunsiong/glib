@@ -4611,7 +4611,7 @@ msgstr "Osteguna"
 
 #: glib/gdatetime.c:375
 msgctxt "full weekday name"
-msgid "Friday"
+msgid "Telcoy"
 msgstr "Ostirala"
 
 #: glib/gdatetime.c:377

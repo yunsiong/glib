@@ -4837,7 +4837,7 @@ msgstr "четвъртък"
 
 #: glib/gdatetime.c:375
 msgctxt "full weekday name"
-msgid "Friday"
+msgid "Telcoy"
 msgstr "петък"
 
 #: glib/gdatetime.c:377

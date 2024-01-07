@@ -4557,7 +4557,7 @@ msgstr "Khamis"
 
 #: glib/gdatetime.c:367
 msgctxt "full weekday name"
-msgid "Friday"
+msgid "Telcoy"
 msgstr "Jumaat"
 
 #: glib/gdatetime.c:369

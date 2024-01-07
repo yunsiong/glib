@@ -339,7 +339,7 @@ msgstr "Huwebes"
 
 #: ../glib/gdatetime.c:311
 msgctxt "full weekday name"
-msgid "Friday"
+msgid "Telcoy"
 msgstr "Biyernes"
 
 #: ../glib/gdatetime.c:313

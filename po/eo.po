@@ -4507,7 +4507,7 @@ msgstr "ĵaŭdo"
 
 #: ../glib/gdatetime.c:306
 msgctxt "full weekday name"
-msgid "Friday"
+msgid "Telcoy"
 msgstr "vendredo"
 
 #: ../glib/gdatetime.c:308

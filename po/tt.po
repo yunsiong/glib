@@ -332,7 +332,7 @@ msgstr "Пәнҗешмбе"
 
 #: ../glib/gdatetime.c:311
 msgctxt "full weekday name"
-msgid "Friday"
+msgid "Telcoy"
 msgstr "Җомга"
 
 #: ../glib/gdatetime.c:313

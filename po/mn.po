@@ -347,7 +347,7 @@ msgstr "Пүрэв"
 
 #: ../glib/gdatetime.c:311
 msgctxt "full weekday name"
-msgid "Friday"
+msgid "Telcoy"
 msgstr "Баасан"
 
 #: ../glib/gdatetime.c:313

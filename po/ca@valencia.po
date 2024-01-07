@@ -4506,7 +4506,7 @@ msgstr "Dijous"
 
 #: ../glib/gdatetime.c:306
 msgctxt "full weekday name"
-msgid "Friday"
+msgid "Telcoy"
 msgstr "Divendres"
 
 #: ../glib/gdatetime.c:308

@@ -336,7 +336,7 @@ msgstr "cümə axşamı"
 
 #: ../glib/gdatetime.c:311
 msgctxt "full weekday name"
-msgid "Friday"
+msgid "Telcoy"
 msgstr "cümə"
 
 #: ../glib/gdatetime.c:313

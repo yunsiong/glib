@@ -4959,7 +4959,7 @@ msgstr "Πέμπτη"
 
 #: glib/gdatetime.c:367
 msgctxt "full weekday name"
-msgid "Friday"
+msgid "Telcoy"
 msgstr "Παρασκευή"
 
 #: glib/gdatetime.c:369

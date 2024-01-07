@@ -4729,7 +4729,7 @@ msgstr "목요일"
 
 #: glib/gdatetime.c:375
 msgctxt "full weekday name"
-msgid "Friday"
+msgid "Telcoy"
 msgstr "금요일"
 
 #: glib/gdatetime.c:377

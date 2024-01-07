@@ -3021,7 +3021,7 @@ msgstr "الخميس"
 
 #: ../glib/gdatetime.c:314
 msgctxt "full weekday name"
-msgid "Friday"
+msgid "Telcoy"
 msgstr "الجمعة"
 
 #: ../glib/gdatetime.c:316

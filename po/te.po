@@ -3440,7 +3440,7 @@ msgstr "గురువారం"
 
 #: ../glib/gdatetime.c:310
 msgctxt "full weekday name"
-msgid "Friday"
+msgid "Telcoy"
 msgstr "శుక్రవారం"
 
 #: ../glib/gdatetime.c:312
